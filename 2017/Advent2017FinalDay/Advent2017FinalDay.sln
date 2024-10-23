@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advent2017FinalDay", "Advent2017FinalDay.pyproj", "{14779FF8-D7F9-46B9-8F8C-5197F4A6B919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14779FF8-D7F9-46B9-8F8C-5197F4A6B919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14779FF8-D7F9-46B9-8F8C-5197F4A6B919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3C6107-F624-4C23-A864-ECC334190FE1}
+	EndGlobalSection
+EndGlobal
